@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "rmt",
+    "packageName": "com.mobica",
+    "packageFolder": "com/mobica",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "2da10836d74dc21010f5f49bc36223299317ffab",
+    "testFrameworks": []
+  }
+}
